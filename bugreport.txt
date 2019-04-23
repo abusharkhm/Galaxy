@@ -1,0 +1,1 @@
+On the 02-regions integration test, my output seems to be missing boundaries compared to the expected output. The Error the program runs into is "Program exited abnormally: java exception (java.lang.AssertionError) at galaxy.Place.pl(Place.java:19)". When I run the Main file, I've noticed that mostly the error happens when I'm placing lines around an intersection.
